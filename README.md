@@ -1,6 +1,6 @@
 # Atliq_Hospitality_Analysis
 
-### 1. Hotel_Data_Analysis  
+### Hotel_Data_Analysis  
 Datasets: 1. dim_date.csv, 2. dim_hotels.csv, 3. dim_rooms.csv, 4. fact_aggregated_bookings & 5. fact_bookings.csv
 -  Data Import & Data Exploration:
     - Read bookings data in a dataframe
