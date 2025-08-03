@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="hotels thumbnail" src="https://github.com/user-attachments/assets/70d425e5-a46f-4528-a091-726c9920021d" />
+
 # Atliq_Hotels_Analysis
 
 ### Hotel_Data_Analysis  
